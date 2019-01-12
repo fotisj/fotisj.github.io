@@ -1,2 +1,3 @@
-# fotisj.github.io
-Not a blog?
+---
+permalink: /index.html
+---

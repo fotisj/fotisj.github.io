@@ -3,5 +3,5 @@
 
 #ignore the directories created by jekyll to build the site
 _site/
-.sass_cache/
+.sass_cache/**
 

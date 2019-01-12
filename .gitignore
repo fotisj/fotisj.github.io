@@ -1,0 +1,7 @@
+#ignore backup files
+*.bak
+
+#ignore the directory created by jekyll to build the site
+_site/
+
+

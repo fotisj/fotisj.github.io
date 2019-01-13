@@ -5,3 +5,5 @@
 _site/
 .sass_cache/**
 
+#ignore my notes how to start the local jekyll server
+readme.txt

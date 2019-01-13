@@ -37,7 +37,8 @@ $$
 
 ```
 
-The [wikibooks on Latex](https://en.wikibooks.org/wiki/LaTeX) has an extensive chapter on [Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics). Here an more complex example from the book:
+The [wikibooks on Latex](https://en.wikibooks.org/wiki/LaTeX) has an extensive chapter on 
+[Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics). Here a more complex example from the book:
 
 $$
 A_{m,n} = 

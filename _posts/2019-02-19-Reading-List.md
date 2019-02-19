@@ -4,7 +4,7 @@ title: Reading List
 ---
 The following is my reading list on word embeddings and related material
 
-* UlmFit: [General](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html), [paper](https://arxiv.org/pdf/1801.06146), [code/model](https://github.com/bkj/ulm-basenet) 
+* UlmFit: [General](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html), [paper](https://arxiv.org/pdf/1801.06146), [code/model](https://github.com/bkj/ulm-basenet) [my notes](https://fotisj.github.io/ULMFit/)
 * Elmo: [General](https://allennlp.org/elmo), [paper](https://arxiv.org/abs/1802.05365), [code/model](https://github.com/allenai/bilm-tf) 
 * Bert (Google): [General](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html), [paper](https://arxiv.org/abs/1810.04805), [code/model](https://github.com/google-research/bert)
 

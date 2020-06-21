@@ -32,7 +32,7 @@ As I don't work with R, my examples are usually taken from the Python eco-system
 * domain adaption 
 * sentiment analysis
 * LDA aka Topic Modeling
-* Word Embeddings (from word2vec to Bert)
+* Word Embeddings (from word2vec to Bert etc.)
 
 ## Statistics
 * Descriptive Statistics

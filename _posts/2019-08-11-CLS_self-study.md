@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computational Literary Studies: self study
+title: Self-studying Computational Literary Studies 
 ---
 
 As many others sometimes I am asked about good resources for people who are interested in learning  <i>computational literary studies</i>. Many of them cannot rely on courses at their local university and are interested in resources for self-studying. Here are some books, videos and online courses I found quite useful. 
